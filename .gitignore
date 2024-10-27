@@ -12,7 +12,7 @@ RAG_Techniques/
 results/
 db/
 chunking/db/
-*.pdf
+# *.pdf
 *.json
 .vscode-server/
 project-DaemonKiller/main/config.yml
