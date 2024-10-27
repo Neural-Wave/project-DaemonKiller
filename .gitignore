@@ -15,7 +15,7 @@ chunking/db/
 *.pdf
 *.json
 .vscode-server/
-project-DaemonKiller/main/config.yml/
+project-DaemonKiller/main/config.yml
 llama3.18B-Fine-tunedforSwisscom/
 .ollama/
 .cookiecutter*/
