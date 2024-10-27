@@ -1,0 +1,16 @@
+name: project-DaemonKiller
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.0
+  - black
+  - flake8
+  - isort
+  - pip
+  - typer
+  - loguru
+  - tqdm
+  - pip:
+    - python-dotenv
+    - mkdocs
+    - -e .
